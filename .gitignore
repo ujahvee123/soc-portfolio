@@ -1,0 +1,11 @@
+# Secrets and keys - never commit these
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+.env
+
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+.vscode/
